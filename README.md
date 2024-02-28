@@ -1,5 +1,5 @@
 ### Hi! I'm Eduarda Cunha 👋
-I'm a brazilian computer science student. Currently I'm working as a QA Analyst.
+I'm a brazilian computer science student. Currently I'm working as a Test Engineer.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-s-cunha/)
 
